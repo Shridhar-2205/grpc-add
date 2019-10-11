@@ -15,4 +15,4 @@ cd client
 go run client.go
 ```
 
-Open the browser with url http://localhost:8080/100/200
+Open the browser with url http://localhost:8080/add/100/200
